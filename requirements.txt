@@ -1,13 +1,11 @@
-Package                   Version
-------------------------- -----------
-langgraph                 0.6.6
-langgraph-checkpoint      2.1.1
-langgraph-prebuilt        0.6.4
-langgraph-sdk             0.2.4
-langsmith                 0.4.21
-numpy                     2.0.2
-ollama                    0.5.3
-openpyxl                  3.1.5
-pandas                    2.3.2
-SQLAlchemy                2.0.43
-streamlit                 1.49.1
+langgraph                 
+langgraph-checkpoint      
+langgraph-prebuilt        
+langgraph-sdk             
+langsmith                 
+numpy                     
+ollama                    
+openpyxl                  
+pandas                    
+SQLAlchemy                
+streamlit                 
